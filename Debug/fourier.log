@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\ACER\Documents\PROJECTS\fourier\main.cpp(42,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ACER\Documents\PROJECTS\fourier\main.cpp(204,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\Documents\PROJECTS\fourier\main.cpp(204,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\Documents\PROJECTS\fourier\main.cpp(225,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\Documents\PROJECTS\fourier\main.cpp(225,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  fourier.vcxproj -> C:\Users\ACER\Documents\PROJECTS\fourier\Debug\fourier.exe
